@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: futsal-bot
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python bot.py
+    envVars:
+      - key: TOKEN
+        value: 7851942305:AAFlf1YZQZPOegYAllJlYo52VJs_vR1LDMo

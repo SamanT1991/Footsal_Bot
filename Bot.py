@@ -8,7 +8,7 @@ import nest_asyncio
 nest_asyncio.apply()
 
 # 🟢 تنظیمات اصلی
-TOKEN = "7998418773:AAHPZ82U2VGeLkW-PIA-p2u1_NpBoW9dOsI"
+TOKEN = "7851942305:AAFlf1YZQZPOegYAllJlYo52VJs_vR1LDMo"
 DATA_FILE = "attendees.json"
 MESSAGE_FILE = "message_id.txt"
 ALLOWED_USERS = [966421375]  # ← شناسه عددی خودتو اینجا بذار (از userinfobot بگیر)
